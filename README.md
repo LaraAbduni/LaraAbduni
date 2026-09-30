@@ -1,14 +1,14 @@
 <div align="center">
 
-![Banner de Lara Abduni](https://capsule-render.vercel.app/api?type=waving&color=0:05070D,52:0D1B2A,100:6D5DFB&height=230&section=header&text=Lara%20Abduni&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20IA%20%7C%20Desenvolvimento%20de%20Software&descAlignY=59&descSize=17)
+![Banner de Lara Abduni](https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F2A43,70:4F46E5,100:C4B5FD&height=230&section=header&text=Lara%20Abduni&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20IA%20aplicada%20%7C%20Tecnologia%20na%20Educa%C3%A7%C3%A3o&descAlignY=59&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3200&pause=900&color=A99BFF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+Insper;IA+aplicada+%2B+vis%C3%A3o+computacional;Software+pensado+para+pessoas;Ninja+de+%C3%81lgebra+Linear)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&duration=3200&pause=900&color=A99BFF&center=true&vCenter=true&repeat=true&width=820&height=45&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+no+Insper;IA+aplicada+%2B+vis%C3%A3o+computacional;Tecnologia+pensada+para+pessoas;Educa%C3%A7%C3%A3o+%2B+tecnologia+com+prop%C3%B3sito)](https://git.io/typing-svg)
 
 </div>
 
 ## Sobre mim
 
-Sou estudante de **Ciência da Computação no Insper**, com interesse especial na interseção entre inteligência artificial, desenvolvimento de software e educação.
+Sou estudante de **Ciência da Computação no Insper**, com interesse especial em inteligência artificial, tecnologia aplicada à educação e na criação de experiências digitais mais claras e intuitivas.
 
 Gosto de transformar problemas complexos em experiências mais claras, úteis e intuitivas. Foi assim que construí projetos de reconhecimento facial com prova de vida, lógica computacional, busca e planejamento de rotas — e é também como penso as ferramentas que desenvolvo para apoiar o ensino de Álgebra Linear.
 
@@ -104,21 +104,13 @@ Como Ninja de Álgebra Linear, apoio os alunos e também ajudo a evoluir o site 
   <img src="https://streak-stats.demolab.com?user=LaraAbduni&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&ring=6D5DFB&fire=A99BFF&currStreakLabel=A99BFF&sideLabels=8B949E&dates=6E7681&currStreakNum=C9D1D9&sideNums=C9D1D9" alt="Sequência de contribuições de Lara Abduni">
 </div>
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LaraAbduni&bg_color=00000000&color=8B949E&line=7D6CF2&point=A99BFF&area=true&area_color=6D5DFB&hide_border=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%A3o" alt="Gráfico de atividade de Lara Abduni">
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=LaraAbduni&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="Troféus do GitHub de Lara Abduni">
-</div>
-
 ## Minhas contribuições, em movimento
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake.svg">
-    <img alt="Animação das contribuições de Lara Abduni" src="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake-dark.svg?v=2">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake.svg?v=2">
+    <img alt="Animação das contribuições de Lara Abduni" src="https://raw.githubusercontent.com/LaraAbduni/LaraAbduni/output/github-contribution-grid-snake.svg?v=2">
   </picture>
 </div>
 
@@ -142,4 +134,4 @@ Como Ninja de Álgebra Linear, apoio os alunos e também ajudo a evoluir o site 
   <sub>Feito com curiosidade, intenção e algumas boas matrizes.</sub>
 </div>
 
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:6D5DFB,48:0D1B2A,100:05070D&height=115&section=footer)
+![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,30:7C3AED,65:2563EB,100:020617&height=125&section=footer)
